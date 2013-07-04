@@ -10,17 +10,29 @@
     <body>
         <div>old content</div>
         <script>
-            // ocultar todas as divs da página
-            jQuery('div').hide();
-            
-            // atualizar o texto contido em todas as divs
-            jQuery('div').text('new content');
-            
-            // adicionar uma classe com um valor de updateContent a todas as divs
-            jQuery('div').addClass("updateContent");
-            
-            // mostrar todas as divs da página
-            jQuery('div').show();
+            /**
+             * Exemplo simples
+             */            
+            jQuery('div').hide();                       // ocultar todas as divs da página
+            jQuery('div').text('new content 1');        // atualizar o texto contido em todas as divs  
+            jQuery('div').addClass("updateContent");    // adicionar uma classe com um valor de updateContent a todas as divs
+            jQuery('div').show();                       // mostrar todas as divs da página 
+        
+        
+            /**
+             * Usando encadeamento
+             */            
+            jQuery('div').hide().text('new content 2').addClass("updateContent").show();
+        
+
+            /**
+             * Usando endentação e quebras de linha
+             */
+            jQuery('div')
+                .hide()
+                .text('new content 3')
+                .addClass("update Content")
+                .show();
         </script>
     </body>
 </html>
