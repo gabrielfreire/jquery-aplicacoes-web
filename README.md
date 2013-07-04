@@ -9,7 +9,7 @@ focando principalmente no aprendizado.
 
 ###Objetivo
 Crie pequenos projetos, aplicações e até mesmo um script qualquer, o objetivo é utilizar um de mínimo 80% da linguagem js 
-com no máximo 20% da lingugem de servidor desejada(se desejar).
+com no máximo 20% da linguagem de servidor(se desejar).
 
 Fique a vontade para acrescentar e compartilhar informações, sinta-se em casa!
 
