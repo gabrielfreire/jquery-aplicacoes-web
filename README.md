@@ -12,23 +12,7 @@ Crie pequenos projetos, aplicações e até mesmo um script qualquer, o objetivo
 com no máximo 20% da linguagem de servidor(se desejar).
 
 Fique a vontade para acrescentar e compartilhar informações, sinta-se em casa!
-
-###Exemplo simples de HTML + JQuery
-
-    <html>
-        <head>
-            <script type="text/javascript" src="js/biblioteca.js"></script>
-        </head>
-        
-        <body>
-            <script type="text/javascript">
-                $(document).ready(function(){
-                    alert("Hello World!");    	
-                });
-            </script>
-        </body>
-    </html>
-  
+ 
   
 ###Criador do projeto
     https://github.com/gabrielfreire
