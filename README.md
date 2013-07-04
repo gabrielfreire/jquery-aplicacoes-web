@@ -13,8 +13,20 @@ com no máximo 20% da lingugem de servidor desejada(se desejar).
 
 Fique a vontade para acrescentar e compartilhar informações, sinta-se em casa!
 
-    $(this).casa{ function(
-      console.log("é nossa");
-    )};
+###Exemplo simples de HTML + JQuery
+
+    <html>
+        <head>
+            <script type="text/javascript" src="js/biblioteca.js"></script>
+        </head>
+        
+        <body>
+            <script type="text/javascript">
+                $(document).ready(function(){
+                    alert("Hello World!");    	
+                });
+            </script>
+        </body>
+    </html>
   
   
