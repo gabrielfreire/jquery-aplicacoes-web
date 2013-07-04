@@ -30,5 +30,5 @@ Fique a vontade para acrescentar e compartilhar informações, sinta-se em casa!
     </html>
   
   
-###Criador
+###Criador do projeto
     https://github.com/gabrielfreire
