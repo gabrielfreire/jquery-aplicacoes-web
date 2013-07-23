@@ -12,7 +12,3 @@ Crie pequenos projetos, aplicações e até mesmo um script qualquer, o objetivo
 com no máximo 20% da linguagem de servidor(se desejar).
 
 Fique a vontade para acrescentar e compartilhar informações, sinta-se em casa!
- 
-  
-###Criador do projeto
-    https://github.com/gabrielfreire
