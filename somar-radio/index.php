@@ -11,7 +11,7 @@
 
             <p><input type="radio" name="radio" class="radiobox" value="10,00" />10,00</p>
             <p><input type="radio" name="radio" class="radiobox" value="20,00" />20,00</p>
-            <p>Valor total = <label>100</label></p>
+            <p>Valor total = <input type="text" value="100" id="total" /></p>
             
         </center>
     </body>

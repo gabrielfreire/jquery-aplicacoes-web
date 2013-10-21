@@ -9,10 +9,10 @@ $("input.radiobox").on("click", function (){
     //converter a radio para inteiro(pois ela vem como string) e somar com 100
     soma = parseInt(radio) + 100; 
     
-    $("label")
+    $("#total")
         .hide()              //vou esconder a label
-            .text(soma)      //vou inserir o valor da soma
-                .fadeIn();   //vou mostrar na tela com o novo valor
+            .val(soma)       //vou inserir o valor da soma
+                .show();   //vou mostrar na tela com o novo valor
     
     //exibir no console, instale o plugin do firebug(navegador firefox) ao trabalhar com jquery
     console.log(soma);
